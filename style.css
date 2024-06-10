@@ -5,7 +5,9 @@ body {
     padding: 0;
     color: #333;
 }
-
+.nav-link{
+    color: white !important;
+}
 .top-header .contact-info p {
     margin: 0;
     font-size: 0.9rem;
